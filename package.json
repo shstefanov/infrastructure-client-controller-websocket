@@ -1,0 +1,16 @@
+{
+  "name": "infrastructure-client-controller-websocket",
+  "version": "0.0.1",
+  "private": false,
+  "author": {
+    "name": "Stefan Stefanov",
+    "email": "s.h.stefanov@mail.bg"
+  },
+  "dependencies": {
+    "bulkify": "latest",
+    "source-map-loader": "^0.1.5",
+    "transform-loader": "^0.2.3",
+    "socket.io-client": "latest",
+    "underscore": "latest"
+  }
+}
