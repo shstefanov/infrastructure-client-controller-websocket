@@ -1,4 +1,4 @@
-var _                = require("underscore");
+var _                = require("fixed.underscore");
 var helpers          = require("lib.helpers"); 
 var Controller       = require("lib.Controller");
 var WebsocketWrapper = require("./lib/WebsocketWrapper")
